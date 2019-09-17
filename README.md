@@ -1,8 +1,8 @@
-# flex_sdk_4.6.0.23201B
+# Flex SDK 4.6.0.23201B
 
 Fork of http://fpdownload.adobe.com/pub/flex/sdk/builds/flex4.6/flex_sdk_4.6.0.23201B.zip
 
-## Download Flex SDK 4.6.0.23201B (328MB)
+## Download (328MB)
 
 Release page: https://github.com/af-workouts/flex_sdk_4.6.0.23201B/releases/tag/4.6.0.23201B
 
